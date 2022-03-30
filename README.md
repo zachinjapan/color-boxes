@@ -1,6 +1,6 @@
 # color-boxes
 
-# live site  https://6244c34476fc6111e3740816--startling-frangollo-a3d9fe.netlify.app/
+# live site  https://color-boxes-wow.netlify.app/
 
 All boxes are responsive, and the grid layout remains intact if more content is added to the boxes.
 
