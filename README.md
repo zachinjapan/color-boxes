@@ -1,6 +1,8 @@
 # color-boxes
 
-# live site  https://color-boxes-wow.netlify.app/
+# live site:  https://color-boxes-wow.netlify.app/
+
+# how to run: download repo and run npm start in the terminal
 
 All boxes are responsive, and the grid layout remains intact if more content is added to the boxes.
 
