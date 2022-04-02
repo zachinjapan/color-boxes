@@ -2,7 +2,10 @@
 
 # live site:  https://color-boxes-wow.netlify.app/
 
-# how to run: download repo, run npm i in the terminal then run npm start 
+# how to run
+1. clone repo
+2.  run "npm i" in the base dir. 
+3.  run "npm start" in the base dir 
 
 All boxes are responsive, and the grid layout remains intact if more content is added to the boxes.
 
